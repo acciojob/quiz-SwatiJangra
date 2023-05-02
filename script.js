@@ -1,5 +1,3 @@
-//your JS code here. If required.
-// Define the quiz questions
 const questions = [
   {
     question: "What is the capital of France?",
